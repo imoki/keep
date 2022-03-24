@@ -20,9 +20,9 @@ python sendbark.py
 、、、
 
 ## 效果
-![](img/2.png)
+![](img/2.jpg)
 参考bark软件配置
-![](img/3.png)
+![](img/3.jpg)
 
 ## 其他
 bark.txt 为激励性语句的文件，每一行为一句激励性语句
